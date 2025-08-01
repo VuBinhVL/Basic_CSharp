@@ -3,16 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Basic_CSharp\\EntityFramework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2DFA73C6-DBC9-45A5-99E4-FC5190ED1D6D}|EntityFramework.csproj|c:\\users\\admin\\source\\repos\\basic_csharp\\entityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DFA73C6-DBC9-45A5-99E4-FC5190ED1D6D}|EntityFramework.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31C13F7C-CFA6-49FD-B452-7A936EECA141}|..\\EntityFramework2\\EntityFramework2.csproj|c:\\users\\admin\\source\\repos\\basic_csharp\\entityframework2\\models\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DFA73C6-DBC9-45A5-99E4-FC5190ED1D6D}|EntityFramework.csproj|c:\\users\\admin\\source\\repos\\basic_csharp\\entityframework\\models\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DFA73C6-DBC9-45A5-99E4-FC5190ED1D6D}|EntityFramework.csproj|solutionrelative:models\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2DFA73C6-DBC9-45A5-99E4-FC5190ED1D6D}|EntityFramework.csproj|c:\\users\\admin\\source\\repos\\basic_csharp\\entityframework\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DFA73C6-DBC9-45A5-99E4-FC5190ED1D6D}|EntityFramework.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31C13F7C-CFA6-49FD-B452-7A936EECA141}|..\\EntityFramework2\\EntityFramework2.csproj|c:\\users\\admin\\source\\repos\\basic_csharp\\entityframework2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +16,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,41 +60,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Basic_CSharp\\EntityFramework\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Basic_CSharp\\EntityFramework\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Basic_CSharp\\EntityFramework2\\Models\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "..\\EntityFramework2\\Models\\ProductDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Basic_CSharp\\EntityFramework2\\Models\\ProductDbContext.cs",
+              "RelativeToolTip": "..\\EntityFramework2\\Models\\ProductDbContext.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAUwCMAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T10:33:23.458Z",
+              "WhenOpened": "2025-08-01T14:22:19.853Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Basic_CSharp\\EntityFramework\\Models\\ProductDbContext.cs",
-              "RelativeDocumentMoniker": "Models\\ProductDbContext.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Basic_CSharp\\EntityFramework\\Models\\ProductDbContext.cs",
-              "RelativeToolTip": "Models\\ProductDbContext.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAwwB8AAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T10:12:58.673Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Basic_CSharp\\EntityFramework\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Basic_CSharp\\EntityFramework\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAwwHsAAAANAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Basic_CSharp\\EntityFramework2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\EntityFramework2\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Basic_CSharp\\EntityFramework2\\Program.cs",
+              "RelativeToolTip": "..\\EntityFramework2\\Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAgwEgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T10:12:22.017Z",
+              "WhenOpened": "2025-08-01T13:32:33.331Z",
               "EditorCaption": ""
             }
           ]
