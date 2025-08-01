@@ -3,20 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Basic_CSharp\\EntityFramework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{31C13F7C-CFA6-49FD-B452-7A936EECA141}|..\\EntityFramework2\\EntityFramework2.csproj|c:\\users\\admin\\source\\repos\\basic_csharp\\entityframework2\\models\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBED020F-20FC-44F9-B8D6-0B59F158399B}|..\\EFMigration\\EFMigration.csproj|c:\\users\\admin\\source\\repos\\basic_csharp\\efmigration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31C13F7C-CFA6-49FD-B452-7A936EECA141}|..\\EntityFramework2\\EntityFramework2.csproj|c:\\users\\admin\\source\\repos\\basic_csharp\\entityframework2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBED020F-20FC-44F9-B8D6-0B59F158399B}|..\\EFMigration\\EFMigration.csproj|c:\\users\\admin\\source\\repos\\basic_csharp\\efmigration\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31C13F7C-CFA6-49FD-B452-7A936EECA141}|..\\EntityFramework2\\EntityFramework2.csproj|c:\\users\\admin\\source\\repos\\basic_csharp\\entityframework2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31C13F7C-CFA6-49FD-B452-7A936EECA141}|..\\EntityFramework2\\EntityFramework2.csproj|c:\\users\\admin\\source\\repos\\basic_csharp\\entityframework2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2DFA73C6-DBC9-45A5-99E4-FC5190ED1D6D}|EntityFramework.csproj|c:\\users\\admin\\source\\repos\\basic_csharp\\entityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DFA73C6-DBC9-45A5-99E4-FC5190ED1D6D}|EntityFramework.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBED020F-20FC-44F9-B8D6-0B59F158399B}|..\\EFMigration\\EFMigration.csproj|c:\\users\\admin\\source\\repos\\basic_csharp\\efmigration\\migrations\\20250801164743_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +19,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,67 +63,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Basic_CSharp\\EntityFramework2\\Models\\ProductDbContext.cs",
-              "RelativeDocumentMoniker": "..\\EntityFramework2\\Models\\ProductDbContext.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Basic_CSharp\\EntityFramework2\\Models\\ProductDbContext.cs*",
-              "RelativeToolTip": "..\\EntityFramework2\\Models\\ProductDbContext.cs*",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwCMAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T14:22:19.853Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Basic_CSharp\\EntityFramework\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Basic_CSharp\\EntityFramework\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T14:14:21.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Basic_CSharp\\EntityFramework2\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "..\\EntityFramework2\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Basic_CSharp\\EntityFramework2\\Models\\Category.cs",
-              "RelativeToolTip": "..\\EntityFramework2\\Models\\Category.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwBwAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T13:38:20.06Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Basic_CSharp\\EntityFramework2\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "..\\EntityFramework2\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Basic_CSharp\\EntityFramework2\\Models\\Product.cs",
-              "RelativeToolTip": "..\\EntityFramework2\\Models\\Product.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAxwB0AAAAAAAAAAAAAAA==",
+              "Title": "20250801164743_V2.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Basic_CSharp\\EFMigration\\Migrations\\20250801164743_V2.cs",
+              "RelativeDocumentMoniker": "..\\EFMigration\\Migrations\\20250801164743_V2.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Basic_CSharp\\EFMigration\\Migrations\\20250801164743_V2.cs",
+              "RelativeToolTip": "..\\EFMigration\\Migrations\\20250801164743_V2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T13:34:52.858Z",
+              "WhenOpened": "2025-08-01T17:16:04.825Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Basic_CSharp\\EntityFramework2\\Program.cs",
-              "RelativeDocumentMoniker": "..\\EntityFramework2\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Basic_CSharp\\EntityFramework2\\Program.cs*",
-              "RelativeToolTip": "..\\EntityFramework2\\Program.cs*",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAcwE4AAAAAAAAAAAAAAA==",
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Basic_CSharp\\EFMigration\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "..\\EFMigration\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Basic_CSharp\\EFMigration\\Models\\Tag.cs",
+              "RelativeToolTip": "..\\EFMigration\\Models\\Tag.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T13:32:33.331Z",
+              "WhenOpened": "2025-08-01T16:49:36.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Basic_CSharp\\EFMigration\\Program.cs",
+              "RelativeDocumentMoniker": "..\\EFMigration\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Basic_CSharp\\EFMigration\\Program.cs",
+              "RelativeToolTip": "..\\EFMigration\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T16:10:09.78Z",
               "EditorCaption": ""
             }
           ]

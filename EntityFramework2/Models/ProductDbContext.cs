@@ -35,5 +35,15 @@ namespace EntityFramework2.Models
 			optionsBuilder.UseSqlServer(connectionString);
 			optionsBuilder.UseLazyLoadingProxies();
 		}
+
+		protected override void OnModelCreating(ModelBuilder modelBuilder)
+		{
+			base.OnModelCreating(modelBuilder);
+			//Tạo chỉ mục bằng Fluent API
+			modelBuilder.Entity<Product>(entity =>
+			{
+				entity.HasIndex(p => p.Price).HasDatabaseName("index-sanpham-price");
+			});
+		}
 	}
 }

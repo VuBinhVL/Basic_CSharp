@@ -3,10 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Basic_CSharp\\EntityFramework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{31C13F7C-CFA6-49FD-B452-7A936EECA141}|..\\EntityFramework2\\EntityFramework2.csproj|c:\\users\\admin\\source\\repos\\basic_csharp\\entityframework2\\models\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31C13F7C-CFA6-49FD-B452-7A936EECA141}|..\\EntityFramework2\\EntityFramework2.csproj|c:\\users\\admin\\source\\repos\\basic_csharp\\entityframework2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBED020F-20FC-44F9-B8D6-0B59F158399B}|..\\EFMigration\\EFMigration.csproj|c:\\users\\admin\\source\\repos\\basic_csharp\\efmigration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -61,27 +58,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Basic_CSharp\\EntityFramework2\\Models\\ProductDbContext.cs",
-              "RelativeDocumentMoniker": "..\\EntityFramework2\\Models\\ProductDbContext.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Basic_CSharp\\EntityFramework2\\Models\\ProductDbContext.cs",
-              "RelativeToolTip": "..\\EntityFramework2\\Models\\ProductDbContext.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAUwCMAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T14:22:19.853Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Basic_CSharp\\EntityFramework2\\Program.cs",
-              "RelativeDocumentMoniker": "..\\EntityFramework2\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Basic_CSharp\\EntityFramework2\\Program.cs",
-              "RelativeToolTip": "..\\EntityFramework2\\Program.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAgwEgAAAArAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Basic_CSharp\\EFMigration\\Program.cs",
+              "RelativeDocumentMoniker": "..\\EFMigration\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Basic_CSharp\\EFMigration\\Program.cs",
+              "RelativeToolTip": "..\\EFMigration\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T13:32:33.331Z",
+              "WhenOpened": "2025-08-01T17:53:19.95Z",
               "EditorCaption": ""
             }
           ]
