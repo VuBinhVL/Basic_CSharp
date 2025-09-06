@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate", "Delegate.csproj", "{4019CA30-4FE7-4F28-B44F-0363BF34B489}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lamda", "..\Lamda\Lamda.csproj", "{6AA4916E-C7F6-4C58-9F48-BD23F1385E0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "..\LINQ\LINQ.csproj", "{8113EA1A-BED7-4F0E-BFAE-E460D816FA3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4019CA30-4FE7-4F28-B44F-0363BF34B489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4019CA30-4FE7-4F28-B44F-0363BF34B489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4019CA30-4FE7-4F28-B44F-0363BF34B489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4019CA30-4FE7-4F28-B44F-0363BF34B489}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AA4916E-C7F6-4C58-9F48-BD23F1385E0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AA4916E-C7F6-4C58-9F48-BD23F1385E0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AA4916E-C7F6-4C58-9F48-BD23F1385E0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AA4916E-C7F6-4C58-9F48-BD23F1385E0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8113EA1A-BED7-4F0E-BFAE-E460D816FA3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8113EA1A-BED7-4F0E-BFAE-E460D816FA3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8113EA1A-BED7-4F0E-BFAE-E460D816FA3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8113EA1A-BED7-4F0E-BFAE-E460D816FA3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
